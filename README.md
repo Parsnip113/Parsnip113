@@ -8,6 +8,10 @@
 🌱 Currently learning more about algorithm, Systems Design, and Artificial Intelligence. <br>
 💬 Ask me about anything, I am happy to help. <br>
 📫 How to reach me: [email](mailto:songtianyi03@gmail.com)
+努力做到
+1. 独立思考
+2. 高行动力
+3. 绿灯思维
 
 ---
 
