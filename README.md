@@ -2,7 +2,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsnip113&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsnip113&repo=Parsnip113.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsnip113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
