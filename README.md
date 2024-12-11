@@ -9,4 +9,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsnip113&repo=Parsnip113.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Wakatime Stat
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Parsnip113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maayurri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
