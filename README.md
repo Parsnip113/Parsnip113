@@ -1,5 +1,5 @@
-Pressure. It changes everything. Pressure.
-Some people you squeeze them. They focus, others fold.
-Can you summon your talent at will?
-Can you deliver on a deadline?
+Pressure. It changes everything. Pressure.<br/>
+Some people you squeeze them. They focus, others fold.<br>
+Can you summon your talent at will?<br/>
+Can you deliver on a deadline?<br/>
 Can you sleep at night?
